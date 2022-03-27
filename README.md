@@ -340,25 +340,6 @@ cd database && touch catalogo.json && code ./catalogo.json
 > Lembre-se de que a forma de escrita de objeto para JSON, apesar de serem bem parecidas, não são iguais.
 
 ```json
-{
-  "name": "cinehouse",
-  "version": "1.0.0",
-  "description": "Prática CineHouse do módulo 02 - Introdução ao Node e JavaScript'",
-  "main": "cinema.js",
-  "scripts": {
-    "start": "node cinema.js",
-    "dev": "nodemon cinema.js"
-  },
-  "keywords": [
-    "node",
-    "javascript"
-  ],
-  "author": "Marcelo Diament",
-  "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  }
-}
 [
   {
     "codigo": 1,
